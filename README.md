@@ -23,3 +23,12 @@ OR
 Pull a docker image for fuzzylite.
 
 [click here for the image](https://hub.docker.com/r/drsimarpreetsingh/fuzzylite)
+
+
+## Day-2
+
+1. Learn about Fuzzy Logic Systems
+2. Real-times usage
+3. Backoff Algorithms needs
+
+[Click Here for FuzzyLogic Research Paper references](https://github.com/kushagra67414/Major-1_Project/tree/main/Fuzzy%20Logic%20Research%20Paoer)
